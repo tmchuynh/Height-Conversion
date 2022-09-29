@@ -1,8 +1,12 @@
+.container-fluid {
+    height: max-content;
+    background-color: rgb(175, 0, 0);
+}
+
 form {
     margin: 50px auto;
     width: 90%;
     height: 100%;
-    background-color: rgb(175, 0, 0);
 }
 
 label {
@@ -46,5 +50,5 @@ h1 {
     color: rgb(14, 14, 13);
     font-size: 3em;
     text-align: center;
-    height: 5rem;
+    height: 10rem;
 }
