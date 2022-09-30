@@ -22,4 +22,4 @@ form.addEventListener('submit', function(e) {
         document.querySelector('#feet').value = '';
         document.querySelector('#inches').value = '';
     }
-})
+}) 
